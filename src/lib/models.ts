@@ -8,7 +8,7 @@ export interface Question {
     auth?: number;
     prog?: number;
   };
-  stance?: Stance;
+  stance?: number;
 }
 
 export class Stance extends Number {

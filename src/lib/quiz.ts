@@ -1,4 +1,4 @@
-import originalQuestions from "../../static/questions.json";
+import originalQuestions from "../questions.json";
 import type { Question, Position } from "./models";
 
 export default class Quiz {

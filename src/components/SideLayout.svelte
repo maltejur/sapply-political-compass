@@ -8,9 +8,9 @@
     grid-template-areas: "sidebar main";
     grid-template-columns: 170px auto;
     grid-gap: 40px;
-    margin-top: 50px;
     max-width: 1000px;
     margin: auto;
+    margin-top: 100px;
   }
 
   .sidebar {

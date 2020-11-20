@@ -48,24 +48,24 @@
   .authLeft {
     background-color: #f9baba;
     color: #ff0000;
-    border-right: solid 1px;
-    border-bottom: solid 1px;
+    border-right: solid 2px;
+    border-bottom: solid 2px;
   }
 
   .authRight {
     background-color: #92d9f8;
     color: #00b3ff;
     right: 0;
-    border-left: solid 1px;
-    border-bottom: solid 1px;
+    border-left: solid 2px;
+    border-bottom: solid 2px;
   }
 
   .libLeft {
     background-color: #c8e4bc;
     color: #43d300;
     bottom: 0;
-    border-right: solid 1px;
-    border-top: solid 1px;
+    border-right: solid 2px;
+    border-top: solid 2px;
   }
 
   .libRight {
@@ -73,8 +73,8 @@
     color: #ffbb00;
     right: 0;
     bottom: 0;
-    border-left: solid 0.5px;
-    border-top: solid 0.5px;
+    border-left: solid 2px;
+    border-top: solid 2px;
   }
 
   .labelLeft {
