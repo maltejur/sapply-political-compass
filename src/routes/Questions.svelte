@@ -40,12 +40,6 @@
 </script>
 
 <style>
-  .buttons {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-  }
-
   p {
     font-size: 30px;
   }
